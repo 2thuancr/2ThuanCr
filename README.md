@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a student at [HCMUTE](https://hcmute.edu.vn/).
+- ✍ I'm a student at [HCMUTE](https://hcmute.edu.vn/), majoring in Software Engineering, with a focus on backend development and AI-based computer vision systems.
 
 <br />
 
@@ -49,7 +49,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
