@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a student at [HCMUTE](https://hcmute.edu.vn/), majoring in Software Engineering, with a focus on backend development and AI-based computer vision systems.
+- ✍ I'm a Software Engineering student at [HCMUTE](https://hcmute.edu.vn/), majoring in Software Engineering with a focus on web development and backend systems, along with experience in computer vision and AI applications.
 
 <br />
 
