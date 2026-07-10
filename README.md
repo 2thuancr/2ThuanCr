@@ -39,45 +39,26 @@
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
-## Activities:
-
-<table style="width:100%;">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ThuanCr&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" width="100%"/>
-
-      <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
-     alt="Coding Freak"
-     width="100%" />
-    </td>
-
-    <td width="50%" align="center">
-      <img## 🚀 Activities
+## 🚀 Activities
 
 <table>
   <tr>
     <td width="50%">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ThuanCr&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng"
-        width="100%"
-        alt="Top Languages" />
+        alt="Top Languages"
+        width="100%" />
 
       <img
         src="https://github-readme-stats.vercel.app/api?username=2ThuanCr&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github"
-        width="100%"
-        alt="GitHub Stats" />
+        alt="GitHub Stats"
+        width="100%" />
     </td>
 
     <td width="50%" align="center">
       <img
-        src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
-        alt="Coding Freak"
-        width="100%" />
-    </td>
-  </tr>
-</table>
-        src="https://camo.githubusercontent.com/dc1a2b91de29457c7c1fd53e6241d2b80de9cd7bd3385f17f58db1d18d533ebb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966"
-        alt="Coding Freak"
+        src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"
+        alt="Coding GIF"
         width="100%" />
     </td>
   </tr>
