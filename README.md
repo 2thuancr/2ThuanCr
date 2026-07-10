@@ -1,5 +1,5 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Vi Quoc Thuan</h1>
+<h1 align="center">Hi , I'm Vi Quoc Thuan</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
@@ -39,17 +39,24 @@
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
-## Activities
+## Activities:
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=2ThuanCr&show_icons=true&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ThuanCr&layout=compact" />
-</p>
+<table style="width:100%;">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ThuanCr&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" width="100%"/>
 
-<p align="center">
-  <img width="60%" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
-</p>
+      <img src="https://github-readme-stats.vercel.app/api?username=2ThuanCr&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" width="100%"/>
+    </td>
 
+    <td width="50%" align="center">
+      <img
+        src="https://camo.githubusercontent.com/dc1a2b91de29457c7c1fd53e6241d2b80de9cd7bd3385f17f58db1d18d533ebb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966"
+        alt="Coding Freak"
+        width="100%" />
+    </td>
+  </tr>
+</table>
 <!---
 # Certificates:
 
