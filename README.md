@@ -41,12 +41,14 @@
 
 ## 🚀 Activities
 
+## 🚀 Activities
+
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ThuanCr&amp;bg_color=FFFFFF00&amp;text_color=179fa3&amp;layout=compact&amp;hide=CSS&amp;langs_count=10&amp;custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="Top Languages" width="100%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2ThuanCr&amp;layout=compact&amp;langs_count=10&amp;hide=CSS&amp;bg_color=00000000&amp;text_color=179fa3&amp;custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="Top Languages" width="100%">
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=2ThuanCr&amp;bg_color=FFFFFF00&amp;text_color=179fa3&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;custom_title=Hoạt%20động%20trên%20GitHub" alt="GitHub Stats" width="100%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2ThuanCr&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;bg_color=00000000&amp;text_color=179fa3&amp;custom_title=Hoạt%20động%20trên%20GitHub" alt="GitHub Stats" width="100%">
 </td>
 <td width="50%" align="center">
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Freak" width="100%">
