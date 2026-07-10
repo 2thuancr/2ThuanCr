@@ -41,8 +41,6 @@
 
 ## 🚀 Activities
 
-## 🚀 Activities
-
 <table>
 <tr>
 <td width="50%">
