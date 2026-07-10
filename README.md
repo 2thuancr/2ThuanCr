@@ -39,21 +39,16 @@
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
-## Activities:
+## Activities
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ThuanCr&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="2ThuanCr" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=2ThuanCr&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="2ThuanCr" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=2ThuanCr&show_icons=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ThuanCr&layout=compact" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
+</p>
 
 <!---
 # Certificates:
